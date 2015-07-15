@@ -1,0 +1,4 @@
+# SomethingDigital_SkipToContent
+app/etc/modules/*.xml app/etc/modules/
+app/code/community/SomethingDigital/SkipToContent app/code/community/SomethingDigital/SkipToContent
+app/design/frontend/base/default/layout/somethingdigital_skiptocontent.xml app/design/frontend/base/default/layout/somethingdigital_skiptocontent.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="after_body_start">
+            <block type="core/text" name="skip.to.content.link" before="-">
+                <action method="setText" translate="text">
+                    <text><![CDATA[
+                    <a href="#main-content-skip" class="visuallyhidden focusable">Skip to main content>
+                    ]]></text>
+                </action>
+            </block>
+        </reference>
+        <reference name="content">
+            <block type="core/text" name="skip.to.content.link.content" before="-">
+                <action method="setText" translate="text">
+                    <text><![CDATA[
+                    <div id="main-content-skip"></div>
+                    ]]></text>
+                </action>
+            </block>
+        </reference>
+    </default>
+</layout>
