@@ -5,12 +5,12 @@
             <block type="core/text" name="skip.to.content.link" before="-">
                 <action method="setText" translate="text">
                     <text><![CDATA[
-                    <a href="#main-content-skip" class="visuallyhidden focusable">Skip to main content>
+                    <a href="#main-content-skip" class="visuallyhidden focusable">Skip to main content</a>
                     ]]></text>
                 </action>
             </block>
         </reference>
-        <reference name="content">
+        <reference name="top.container">
             <block type="core/text" name="skip.to.content.link.content" before="-">
                 <action method="setText" translate="text">
                     <text><![CDATA[

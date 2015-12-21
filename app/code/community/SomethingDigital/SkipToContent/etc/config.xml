@@ -10,7 +10,7 @@
         <layout>
             <updates>
                 <skiptocontent>
-                    <file>somethingdigital_skiptocontent.xml</file>>
+                    <file>somethingdigital_skiptocontent.xml</file>
                 </skiptocontent>
             </updates>
         </layout>
